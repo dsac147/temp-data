@@ -24,7 +24,7 @@
           "assessment_stage": "assessment__not_sent",
           "assessment_score": "",
           "assessment_max_score": "80",
-          "plagarism": true
+          "plagarism": false
         },
         "interview": {
           "interview_status": "scheduled",
@@ -127,7 +127,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_taken",
-          "assessment_score": "",
+          "assessment_score": "55",
           "assessment_max_score": "80",
           "plagarism": false
         },
