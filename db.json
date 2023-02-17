@@ -6,8 +6,8 @@
         "name": "Randy Dokidis",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
-          "assessment_score": "70",
+          "assessment_stage": "assessment__not_sent",
+          "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -21,8 +21,8 @@
         "name": "Leslie Alexander",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
-          "assessment_score": "60",
+          "assessment_stage": "assessment__not_sent",
+          "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": true
         },
@@ -52,7 +52,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "57",
+          "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -66,7 +66,7 @@
         "name": "Theresa Webb",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "43",
           "assessment_max_score": "80",
           "plagarism": false
@@ -81,7 +81,7 @@
         "name": "Floyd Miles",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "58",
           "assessment_max_score": "80",
           "plagarism": false
@@ -96,7 +96,7 @@
         "name": "Jenny Wilson",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "60",
           "assessment_max_score": "80",
           "plagarism": false
@@ -111,7 +111,7 @@
         "name": "Dianne Russell",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "75",
           "assessment_max_score": "80",
           "plagarism": true
@@ -126,7 +126,7 @@
         "name": "Cameron Williamson",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": false
@@ -141,7 +141,7 @@
         "name": "Ralph Edwards",
         "application_stage": "application_review",
         "assessment": {
-          "assessment_stage": "assessment_sent",
+          "assessment_stage": "assessment_taken",
           "assessment_score": "66",
           "assessment_max_score": "80",
           "plagarism": false
