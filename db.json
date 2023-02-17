@@ -7,7 +7,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "70",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -22,7 +22,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "60",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -37,7 +37,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -52,7 +52,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "57",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -67,7 +67,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "43",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -82,7 +82,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "58",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -97,7 +97,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "60",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -112,7 +112,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "75",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -127,7 +127,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "",
           "assessment_max_score": "80",
           "plagarism": false
         },
@@ -142,7 +142,7 @@
         "application_stage": "application_review",
         "assessment": {
           "assessment_stage": "assessment_sent",
-          "assessment_score": "80",
+          "assessment_score": "66",
           "assessment_max_score": "80",
           "plagarism": false
         },
