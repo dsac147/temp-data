@@ -24,7 +24,7 @@
           "assessment_stage": "assessment_sent",
           "assessment_score": "60",
           "assessment_max_score": "80",
-          "plagarism": false
+          "plagarism": true
         },
         "interview": {
           "interview_status": "scheduled",
@@ -114,7 +114,7 @@
           "assessment_stage": "assessment_sent",
           "assessment_score": "75",
           "assessment_max_score": "80",
-          "plagarism": false
+          "plagarism": true
         },
         "interview": {
           "interview_status": "scheduled",
