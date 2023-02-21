@@ -152,5 +152,59 @@
         }
       }
     ]
+  },
+  "job-stage": {
+    "data": [
+      {
+        "type": "job_stage",
+        "id": "dbb68706-4ad0-4ebf-b4aa-3630fc7dd9b0",
+        "attributes": {
+          "created_at": 1676966878,
+          "interviews": "",
+          "name": "Application review",
+          "priority": 0
+        }
+      },
+      {
+        "type": "job_stage",
+        "id": "eb1d3939-2d1d-46d5-aa60-6568d77e65ed",
+        "attributes": {
+          "created_at": 1676966878,
+          "interviews": "",
+          "name": "Hiring Manager Review",
+          "priority": 0
+        }
+      },
+      {
+        "type": "job_stage",
+        "id": "c2ff0979-65c1-4d37-a331-e07d5ecae36a",
+        "attributes": {
+          "created_at": 1676966878,
+          "interviews": "",
+          "name": "HackerRank test",
+          "priority": 0
+        }
+      },
+      {
+        "type": "job_stage",
+        "id": "84593c34-efab-4e87-984d-b775357808e0",
+        "attributes": {
+          "created_at": 1676966878,
+          "interviews": "",
+          "name": "CodePair",
+          "priority": 0
+        }
+      },
+      {
+        "type": "job_stage",
+        "id": "23040a35-86d5-440a-98e4-a697edeca415",
+        "attributes": {
+          "created_at": 1676966878,
+          "interviews": "",
+          "name": "Onsite Interviews",
+          "priority": 0
+        }
+      }
+    ]
   }
 }
